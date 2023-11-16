@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jørgen</h1>
-<h3 align="center">A Norwegian Computer Science student, currently in Hong Kong</h3>
+<h3 align="center">A Norwegian Computer Science student, currently in Northern Italy</h3>
 
 - 🌱 I’m currently learning **Azure**
 
